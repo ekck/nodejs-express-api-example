@@ -9,3 +9,10 @@ API methods
 |-----|------|
 |get |/tshirt|
 |post |/tshirt/:id|
+
+Api workflow 
+- preferably [Postman](https://www.postman.com/) (explorable options available like [Insomnia](https://insomnia.rest/))
+- Create JSON POST request  
+        {
+            "logo": "💎"
+        } 
