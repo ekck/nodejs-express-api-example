@@ -12,7 +12,9 @@ API methods
 
 Api workflow 
 - preferably [Postman](https://www.postman.com/) (explorable options available like [Insomnia](https://insomnia.rest/))
-- Create JSON POST request  
+- Create JSON POST request  to http://localhost:8080/tshirt/10
         {
             "logo": "💎"
         } 
+
+- Create GET request to  http://localhost:8080/tshirt 
