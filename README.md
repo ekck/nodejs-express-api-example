@@ -8,4 +8,4 @@ API methods
 | method | url |
 |-----|------|
 |get |/tshirt|
-|post |/tshirt/<id>|
+|post |/tshirt/:id|
